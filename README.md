@@ -12,7 +12,7 @@ The link below will give you direct access to NYT-React-Search web application u
 
 <!-- Heroku References: https://evening-ridge-94356.herokuapp.com/ | https://git.heroku.com/evening-ridge-94356.git -->
 
-* [NYT-Scrape](https://uncbc-nytscrape.herokuapp.com/)
+* [NYT-React-Search](https://google.com/)
 
 ## Local Environment Setup
 To use NYT-React-Search web application application from your local environment, you must accomplish the following steps below:
@@ -53,30 +53,11 @@ To use NYT-React-Search web application application from your local environment,
   </table>
 
 ## NPM Packages
-NYT-Scrape uses the following NPM packages:
-- express NPM Package - [https://www.npmjs.com/package/express](https://www.npmjs.com/package/express)
-- express-handlebars NPM Package - [https://www.npmjs.com/package/express-handlebars](https://www.npmjs.com/package/express-handlebars)
+NYT-React-Search uses the following NPM packages:
 - body-parser NPM Package - [https://www.npmjs.com/package/body-parser](https://www.npmjs.com/package/body-parser)
 - cheerio NPM Package - [ttps://www.npmjs.com/package/cheerio](https://www.npmjs.com/package/cheerio)
 - mongoose NPM Package - [https://www.npmjs.com/package/mongoose](https://www.npmjs.com/package/mongoose)
 - request NPM Package - [https://www.npmjs.com/package/request](https://www.npmjs.com/package/request)
-
-<!--
-- node.js - [https://nodejs.org/en/](https://nodejs.org/en/)
-- mysql NPM Package - [https://www.npmjs.com/package/mysql](https://www.npmjs.com/package/mysql)
-- inquirer NPM Package - [https://www.npmjs.com/package/inquirer](https://www.npmjs.com/package/inquirer)
-- cli-table NPM Package - [https://www.npmjs.com/package/cli-table](https://www.npmjs.com/package/cli-table)
-- heroku-cli NPM Package - [https://www.npmjs.com/package/heroku-cli](https://www.npmjs.com/package/heroku-cli)
-- express NPM Package - [https://www.npmjs.com/package/express](https://www.npmjs.com/package/express)
-- path NPM Package - [https://www.npmjs.com/package/path](https://www.npmjs.com/package/path)
-- body-parser NPM Package - [https://www.npmjs.com/package/body-parser](https://www.npmjs.com/package/body-parser)
-- express NPM Package - [https://www.npmjs.com/package/express](https://www.npmjs.com/package/express)
-- express-handlebars NPM Package - [https://www.npmjs.com/package/express-handlebars](https://www.npmjs.com/package/express-handlebars)
-- body-parser NPM Package - [https://www.npmjs.com/package/body-parser](https://www.npmjs.com/package/body-parser)
-- cheerio NPM Package - [ttps://www.npmjs.com/package/cheerio](https://www.npmjs.com/package/cheerio)
-- mongoose NPM Package - [https://www.npmjs.com/package/mongoose](https://www.npmjs.com/package/mongoose)
-- request NPM Package - [https://www.npmjs.com/package/request](https://www.npmjs.com/package/request)
--->
 
 ## Built With
 
@@ -92,4 +73,4 @@ NYT-Scrape uses the following NPM packages:
 
 ## Author
 
-* **Erick Grissom** - *JS/Node/Express/MongoDB/Mongoose/Cheerio/Heroku* - [NYT-React-Search Repo](https://github.com/GrissomErick/NYT-React-Search)
+* **Erick Grissom** - *REACT/MongoDB/Mongoose/Heroku* - [NYT-React-Search Repo](https://github.com/GrissomErick/NYT-React-Search)
