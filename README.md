@@ -2,7 +2,7 @@
 <a href="https://uncbc-nytscrape.herokuapp.com/" target="_blank"><img src=https://github.com/GrissomErick/NYT-React-Search/blob/master/public/assets/img/NYT_Scrape_Search_React_Header.png?raw=true" alt="Project logo"/></a>
 </p>
 
-# NYT-Scrape
+# NYT-React-Search
 UNC Coding Boot Camp - NYT-React-Search - Assignment #16 (REACT, MongoDB, Mongoose, Heroku)
 
 **Project Description** - The NYT-React-Search, is a web application that captures the headline, article summary, and image from the current articles on nytimes.com. Once displayed, each article provides the user the option to save his/her favorite articles using a "Save Article" button located in the upper right hand corner of the interface. Additionally, users can navigate to the saved article(s) using the "View Saved Articles" button. Once in the saved article section of the application, users can add notes to any saved article or permanently delete the article from the application. 
