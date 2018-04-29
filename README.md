@@ -33,7 +33,7 @@ To use NYT-React-Search web application application from your local environment,
   <tr>
     <td align="center">02</td>
     <td>Clone this repo</td>
-    <td>git clone https://<i></i>github.com/GrissomErick/NYT-Scrape.git</td>
+    <td>git clone https://<i></i>github.com/GrissomErick/NYT-React-Search.git</td>
   </tr>
   <tr>
     <td align="center">03</td>
