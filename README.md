@@ -5,12 +5,12 @@
 # NYT-React-Search
 UNC Coding Boot Camp - NYT-React-Search - Assignment #16 (REACT, MongoDB, Mongoose, Heroku)
 
-**Project Description** - The NYT-React-Search, is a web application that captures the headline, article summary, and image from the current articles on nytimes.com. Once displayed, each article provides the user the option to save his/her favorite articles using a "Save Article" button located in the upper right hand corner of the interface. Additionally, users can navigate to the saved article(s) using the "View Saved Articles" button. Once in the saved article section of the application, users can add notes to any saved article or permanently delete the article from the application. 
+**General Overview** - The NYT-React-Search, is a web application that captures the headline, article summary, and image from the current articles from nytimes.com. Once displayed, each article provides the user the option to save his/her favorite articles using a "Save Article" button located in the upper right hand corner of the interface. Additionally, users can navigate to the saved article(s) using the "View Saved Articles" button. Once in the saved article section of the application, users can add notes to any saved article or permanently delete the article from the application.
+
+**Comments** - The NYT-React-Search demonstrates CRUD, four basic functions of persistent storage, using MongoDB within a REACT built application. 
 
 ## Heroku Link
 The link below will give you direct access to NYT-React-Search web application using your web browser via the Heroku web service. (NOTE: There will be a momentary delay when first accessing the Heroku servers.)
-
-<!-- Heroku References: https://evening-ridge-94356.herokuapp.com/ | https://git.heroku.com/evening-ridge-94356.git -->
 
 * [NYT-React-Search](https://google.com/)
 
