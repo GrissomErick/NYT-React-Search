@@ -56,16 +56,16 @@ To use NYT-React-Search web application application from your local environment,
 
 ## NPM Packages
 NYT-React-Search uses the following NPM packages:
-- axios NPM Package - [https://www.npmjs.com/package/axios)
+- axios NPM Package - [https://www.npmjs.com/package/axios](https://www.npmjs.com/package/axios)
 - body-parser NPM Package - [https://www.npmjs.com/package/body-parser](https://www.npmjs.com/package/body-parser)
 - express NPM Package - [https://www.npmjs.com/package/express](https://www.npmjs.com/package/express)
 - heroku-cli NPM Package - [https://www.npmjs.com/package/heroku-cli](https://www.npmjs.com/package/heroku-cli)
 - mongoose NPM Package - [https://www.npmjs.com/package/mongoose](https://www.npmjs.com/package/mongoose)
-- morgan NPM Package - [https://www.npmjs.com/package/morgan)
+- morgan NPM Package - [https://www.npmjs.com/package/morgan](https://www.npmjs.com/package/morgan)
 - node.js - [https://nodejs.org/en/](https://nodejs.org/en/)
-- react NPM Package - [https://www.npmjs.com/package/react)
-- react-dom NPM Package - [https://www.npmjs.com/search?q=react-dom)
-- react-router NPM Package - [https://www.npmjs.com/package/react-router)
+- react NPM Package - [https://www.npmjs.com/package/react](https://www.npmjs.com/package/react)
+- react-dom NPM Package - [https://www.npmjs.com/search?q=react-dom](https://www.npmjs.com/search?q=react-dom)
+- react-router NPM Package - [https://www.npmjs.com/package/react-router](https://www.npmjs.com/package/react-router)
 
 ## Built With
 
