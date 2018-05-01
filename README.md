@@ -5,7 +5,9 @@
 # NYT-React-Search
 UNC Coding Boot Camp - NYT-React-Search - Assignment #16 (REACT, MongoDB, Mongoose, Heroku)
 
-**General Overview** - The NYT-React-Search, is a web application that captures the headline from a search query that requires topic, start year, and start year. Once results are displayed, each article provides the user the option to save his/her favorite search result using the green "Save" button located on the far right of each result. The saved article will now appear in the "Saved Articles" section of the application. Additionally, each saved article provides the user the option to delete each saved search result using the red "Delete" button located on the far right of each saved article entry.
+**General Overview** - The NYT-React-Search, is a web application that captures the headline from a search query that requires topic, start year, and start year. 
+
+**Instructions** - Once results are displayed, each article provides the user the option to save his/her favorite search result using the green "Save" button located on the far right of each result. The saved article will now appear in the "Saved Articles" section of the application. Additionally, each saved article provides the user the option to delete each saved search result using the red "Delete" button located on the far right of each saved article entry.
 
 **Comments** - The NYT-React-Search demonstrates CRUD, four basic functions of persistent storage, using MongoDB within a REACT built application. 
 
