@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://uncbc-nytreactsearch.herokuapp.com/" target="_blank"><img src=https://github.com/GrissomErick/NYT-React-Search/blob/master/public/assets/img/NYT_Scrape_Search_React_Header.png?raw=true" alt="Project logo"/></a>
+<a href="https://uncbc-nytreactsearch.herokuapp.com/" target="_blank"><img src=https://github.com/GrissomErick/NYT-React-Search/blob/master/client/src/image/NYT_Scrape_Search_React_Header.png?raw=true" alt="Project logo"/></a>
 </p>
 
 # NYT-React-Search
