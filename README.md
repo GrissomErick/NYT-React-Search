@@ -49,6 +49,11 @@ To use NYT-React-Search web application application from your local environment,
   </tr>
   <tr>
     <td align="center">05</td>
+    <td>Start MonoDB server</td>
+    <td>monod</td>
+  </tr>
+  <tr>
+    <td align="center">06</td>
     <td>Start the application server</td>
     <td>npm start</td>
   </tr>
