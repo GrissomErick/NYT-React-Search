@@ -1,5 +1,5 @@
 <p align="center">
-<a href="http://google.com/" target="_blank"><img src=https://github.com/GrissomErick/NYT-React-Search/blob/master/public/assets/img/NYT_Scrape_Search_React_Header.png?raw=true" alt="Project logo"/></a>
+<a href="https://uncbc-nytreactsearch.herokuapp.com/" target="_blank"><img src=https://github.com/GrissomErick/NYT-React-Search/blob/master/public/assets/img/NYT_Scrape_Search_React_Header.png?raw=true" alt="Project logo"/></a>
 </p>
 
 # NYT-React-Search
@@ -12,7 +12,7 @@ UNC Coding Boot Camp - NYT-React-Search - Assignment #16 (REACT, MongoDB, Mongoo
 ## Heroku Link
 The link below will give you direct access to NYT-React-Search web application using your web browser via the Heroku web service. (NOTE: There will be a momentary delay when first accessing the Heroku servers.)
 
-* [NYT-React-Search](https://google.com/)
+* [NYT-React-Search](https://uncbc-nytreactsearch.herokuapp.com/)
 
 ## Local Environment Setup
 To use NYT-React-Search web application application from your local environment, you must accomplish the following steps below:
