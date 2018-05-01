@@ -60,7 +60,6 @@ NYT-React-Search uses the following NPM packages:
 - body-parser NPM Package - [https://www.npmjs.com/package/body-parser](https://www.npmjs.com/package/body-parser)
 - express NPM Package - [https://www.npmjs.com/package/express](https://www.npmjs.com/package/express)
 - heroku-cli NPM Package - [https://www.npmjs.com/package/heroku-cli](https://www.npmjs.com/package/heroku-cli)
-- inquirer NPM Package - [https://www.npmjs.com/package/inquirer](https://www.npmjs.com/package/inquirer)
 - mongoose NPM Package - [https://www.npmjs.com/package/mongoose](https://www.npmjs.com/package/mongoose)
 - morgan NPM Package - [https://www.npmjs.com/package/morgan)
 - node.js - [https://nodejs.org/en/](https://nodejs.org/en/)
